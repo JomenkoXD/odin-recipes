@@ -1,0 +1,26 @@
+* {
+  font-family: Verdana, "Geneva", Tahoma, sans-serif;
+}
+
+.link {
+  color: #0099ff;
+  font-size: 20px;
+}
+
+.back {
+  color: #380b00;
+}
+
+.header {
+  font-size: 50px;
+  color: #f15248;
+}
+
+.header.two {
+  font-size: 30px;
+}
+
+.picture {
+  height: auto;
+  width: 250px;
+}
